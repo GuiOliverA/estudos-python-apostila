@@ -17,13 +17,6 @@ Este projeto cobre os três mundos de Python, indo da sintaxe básica até a Pro
 Um dos principais focos foi a **Modularização** e o **Tratamento de Exceções**. 
 No **Desafio 115**, desenvolvi um sistema de cadastro completo que utiliza manipulação de arquivos de texto (.txt) para persistência de dados.
 
-## 📖 Como navegar pelos desafios
-| Desafio | Tópico Principal |
-| :--- | :--- | :--- |
-| 115 | Sistema de Cadastro (Arquivos) | 
-| 090 | Uso de Dicionários |
-| 072 | Tuplas e Listas | 
-
 ---
 💻 Desenvolvido com dedicação por **Guilherme (PyMentor)**. 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-o-a078b6264/)!
