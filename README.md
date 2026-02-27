@@ -18,7 +18,7 @@ Um dos principais focos foi a **Modularização** e o **Tratamento de Exceções
 No **Desafio 115**, desenvolvi um sistema de cadastro completo que utiliza manipulação de arquivos de texto (.txt) para persistência de dados.
 
 ## 📖 Como navegar pelos desafios
-| Desafio | Tópico Principal | Link |
+| Desafio | Tópico Principal |
 | :--- | :--- | :--- |
 | 115 | Sistema de Cadastro (Arquivos) | 
 | 090 | Uso de Dicionários |
