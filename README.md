@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 Este repositório contém as resoluções dos desafios propostos pelo professor **Gustavo Guanabara** no curso de Python 3 da plataforma **Curso em Vídeo**. O objetivo é documentar minha evolução e servir como uma apostila prática.
 
 ## 🚀 O que você encontrará aqui?
