@@ -20,7 +20,7 @@ No **Desafio 115**, desenvolvi um sistema de cadastro completo que utiliza manip
 ## 📖 Como navegar pelos desafios
 | Desafio | Tópico Principal | Link |
 | :--- | :--- | :--- |
-| 115 | Sistema de Cadastro (Arquivos) | [Ver Código](./desafio_115.py) |
+| 115 | Sistema de Cadastro (Arquivos) | [Ver Código](repositório "Python Aulas") |
 | 090 | Uso de Dicionários | [Ver Código](./desafio_090.py) |
 | 072 | Tuplas e Listas | [Ver Código](./desafio_072.py) |
 
